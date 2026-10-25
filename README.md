@@ -89,3 +89,33 @@ The analysis includes:
 ## Final Outcome
 
 The project demonstrates how Python, Pandas, and NumPy can be used to automate student performance calculations and summarize academic and attendance data.
+
+## Challenges and Learning
+
+During this project, I practised:
+
+- Reading and processing CSV data using Pandas.
+- Working with DataFrames and selecting specific columns.
+- Creating reusable Python functions.
+- Using loops and conditional statements for decision-making.
+- Applying NumPy for numerical calculations.
+- Calculating subject-wise and overall performance statistics.
+- Exporting processed data to a CSV file.
+- Organizing a Python project into separate files.
+
+This project helped me strengthen my understanding of Python programming and basic data analysis.
+
+## Project Structure
+
+```text
+student-performance-analytics/
+├── students.csv
+├── student_results.csv
+├── functions.py
+├── main.py
+└── README.md
+```
+
+## GitHub Repository
+
+[GitHub_repository_Link](https://github.com/zaheen-mallick/student-performance-analytics).
