@@ -118,4 +118,4 @@ student-performance-analytics/
 
 ## GitHub Repository
 
-[GitHub_repository_Link](https://github.com/zaheen-mallick/student-performance-analytics).
+[Student Performance Analytics System](https://github.com/zaheen-mallick/student-performance-analytics).
