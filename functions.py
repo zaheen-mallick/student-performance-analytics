@@ -1,16 +1,12 @@
 import numpy as np
 
-
-
 def calculate_total(marks):
     total = sum(marks)
     return total
-
-
+    
 def calculate_average(marks):
     average = sum(marks) / len(marks)
     return average
-
 
 def assign_grade(average):
     if average >= 90:
@@ -32,18 +28,13 @@ def check_pass_fail(marks):
     for mark in marks:
         if mark < 40:
             return "Fail"
-
     return "Pass"
-
 
 def find_highest_mark(marks):
     return max(marks)
 
-
 def find_lowest_mark(marks):
     return min(marks)
-
-
 
 def calculate_numpy_average(marks):
     return np.mean(marks)
