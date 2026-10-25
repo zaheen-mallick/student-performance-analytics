@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Mathematics,Statistics,Attendance,Total_Marks,Average_Marks,Grade,Result
+S001,Aarav Sharma,IT,85,78,82,92,245,81.66666666666667,A,Pass
+S002,Diya Patel,Computer Science,92,88,90,96,270,90.0,A+,Pass
+S003,Rohan Mehta,IT,65,72,68,80,205,68.33333333333333,C,Pass
+S004,Ananya Singh,Computer Science,76,81,79,88,236,78.66666666666667,B,Pass
+S005,Vivaan Shah,IT,45,52,48,68,145,48.333333333333336,F,Pass
+S006,Isha Verma,Data Science,89,94,91,97,274,91.33333333333333,A+,Pass
+S007,Aditya Rao,Computer Science,55,60,58,75,173,57.666666666666664,D,Pass
+S008,Meera Joshi,Data Science,78,85,83,90,246,82.0,A,Pass
+S009,Arjun Nair,IT,33,42,38,55,113,37.666666666666664,F,Fail
+S010,Sana Khan,Computer Science,81,79,84,93,244,81.33333333333333,A,Pass
+S011,Kabir Das,Data Science,70,68,74,82,212,70.66666666666667,B,Pass
+S012,Myra Gupta,IT,96,91,94,98,281,93.66666666666667,A+,Pass
+S013,Reyansh Iyer,Computer Science,48,45,52,72,145,48.333333333333336,F,Pass
+S014,Kiara Fernandes,Data Science,87,82,89,91,258,86.0,A,Pass
+S015,Atharv Kulkarni,IT,61,58,65,78,184,61.333333333333336,C,Pass
+S016,Pari Malhotra,Computer Science,73,76,71,85,220,73.33333333333333,B,Pass
+S017,Devansh Roy,Data Science,40,35,44,60,119,39.666666666666664,F,Fail
+S018,Navya Reddy,IT,84,89,86,94,259,86.33333333333333,A,Pass
+S019,Krish Bhat,Computer Science,68,63,70,81,201,67.0,C,Pass
+S020,Aadhya Kapoor,Data Science,91,86,88,95,265,88.33333333333333,A,Pass
